@@ -84,8 +84,8 @@ If you’re a professional web developer:
 
 [♬]: https://twitter.com/stil72/status/528092783169794049
 
-- 確かに作業指示書の作成が楽になりそう。ワンアクションで寸法線と値を書き出してくれるのは便利。 [⌘]
-<small>— Torii, 静岡県浜松市</small>
+- 指示書の作成が楽になりそう。ワンアクションで線と値を書き出してくれるのは便利。 [⌘]
+<small>— トリイ, 静岡県浜松市</small>
 
 [⌘]: https://twitter.com/torii/status/528000623921201153
 
